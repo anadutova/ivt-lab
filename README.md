@@ -1,5 +1,5 @@
 # IVT Spaceship
-1234
+6789
 
 This is a simple sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
 
